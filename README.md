@@ -1,2 +1,4 @@
-# Advanced-C-Firmware-Devops-
-This repo contains sample test codes for Advanced C course on Udemy and linux device driver work in the future
+# tianocore
+My attempts at understaning the famous uefi bios and consequently writing my own drivers/apps using edk2!
+
+God bless me!
